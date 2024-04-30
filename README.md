@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MymyTech25
 - 👀 I’m interested in technology, the creation of mobile applications and the beauties of websites <3
-- 🌱 I’m currently learning how to create applications (Android and iOS) with Flutter (Dart)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to create applications (Android and iOS) with Flutter (Dart) ... But I know how to create Android applications with Java :-D
+- 💞️ I’m looking to collaborate on mobile applications on Android and iOS
 - 😄 Pronouns: Mrs
 - ⚡ Fun fact: I'm cool and I like to learn new things: I'm open to all proposals in the world of dev
 
